@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	font-family: Arial;
+}
+
+#logo {
+	height: 80px;
+	width: 80px;
+
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+h1 {
+	padding-left: 20px;
+}
